@@ -8,3 +8,4 @@ You must download and install it to use this program
 Pygame : https://www.pygame.org/news
 When you did it all you have to do is download the files 
 Enjoy and good game !
+Update : The game is now available in .exe file (download the .zip file)
