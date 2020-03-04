@@ -1,7 +1,7 @@
 # Crazy-Car-Race
 This program was made by BloodyFire and using python, 
 to use it please download python in their website https://www.python.org/
-The game is made with the library pygame
+- The game is made with the library pygame
 Warning she is not integrated in python
 You need to download and install it to use this program
 You must download and install it to use this program
