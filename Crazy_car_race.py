@@ -159,6 +159,7 @@ def button(msg, x, y, button_widht, button_height, inactive_color, activ_color, 
                 reprendre()
     else:
         pygame.draw.rect(gamedisplay, inactive_color, (x, y, button_widht, button_height))
+    
     smalltext = pygame.font.Font("freesansbold.ttf", 20)
     textsurf, textrect = text_objects(msg, smalltext)
     textrect.center = ((x + (button_widht / 2)), (y + (button_height / 2)))
